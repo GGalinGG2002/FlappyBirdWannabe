@@ -1,3 +1,2 @@
 # FlappyBirdWannabe
-Drunk Bird for now
-It's not even close to work.
+Still Drunk bird but kinda working
